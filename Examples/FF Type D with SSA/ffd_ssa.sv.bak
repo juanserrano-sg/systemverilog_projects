@@ -1,0 +1,10 @@
+`timescale 1ns/1ps
+module ffd_ssa(reset,clk,enable,d,q);
+input reset,clk,d,enable; output logic q; logic d_logic;
+
+assign d_logic = enable ? d : q;
+
+always @(negedge reset, negedge clk) 
+	    if  (~reset) q<= 0;
+        else q<= d_logic;
+endmodule

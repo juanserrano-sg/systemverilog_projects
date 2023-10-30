@@ -1,0 +1,15 @@
+C:/juanquart/ejercicio_FFD_SSA/ffd_ssa.sv {1 {vlog -work work -sv -stats=none C:/juanquart/ejercicio_FFD_SSA/ffd_ssa.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ffd_ssa
+
+Top level modules:
+	ffd_ssa
+
+} {} {}} C:/juanquart/ejercicio_FFD_SSA/ModelSim/TB_ffd_ssa.sv {1 {vlog -work work -sv -stats=none C:/juanquart/ejercicio_FFD_SSA/ModelSim/TB_ffd_ssa.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_ffd_ssa
+
+Top level modules:
+	TB_ffd_ssa
+
+} {} {}}

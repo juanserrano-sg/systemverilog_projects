@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at ej_min_seg_ds.sv(44): always construct contains both blocking and non-blocking assignments File: C:/juanquart/ejercicio_min_seg_count/ej_min_seg_ds.sv Line: 44
+Warning (10268): Verilog HDL information at ej_min_seg_ds.sv(49): always construct contains both blocking and non-blocking assignments File: C:/juanquart/ejercicio_min_seg_count/ej_min_seg_ds.sv Line: 49

@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "curr_st[0]",
+					"strict" : false
+				},
+				{
+					"name" : "curr_st[1]",
+					"strict" : false
+				},
+				{
+					"name" : "curr_st[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Av[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Av[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Av[2]",
+					"strict" : false
+				},
+				{
+					"name" : "St[0]",
+					"strict" : false
+				},
+				{
+					"name" : "St[1]",
+					"strict" : false
+				},
+				{
+					"name" : "St[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sen",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

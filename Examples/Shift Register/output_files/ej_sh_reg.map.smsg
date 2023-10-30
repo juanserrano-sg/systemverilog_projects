@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ej_sh_reg.sv(9): always construct contains both blocking and non-blocking assignments File: C:/juanquart/ejercicio_shift_register/ej_sh_reg.sv Line: 9

@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/juanquart/ej_led_T/led_t.sv
+design_name = led_t
+instance = comp, \l_out~output , l_out~output, led_t, 1
+instance = comp, \clk~input , clk~input, led_t, 1
+instance = comp, \clk~inputCLKENA0 , clk~inputCLKENA0, led_t, 1
+instance = comp, \Edge~input , Edge~input, led_t, 1
+instance = comp, \q1~0 , q1~0, led_t, 1
+instance = comp, \rst~input , rst~input, led_t, 1
+instance = comp, \l_out~0 , l_out~0, led_t, 1
+instance = comp, \l_out~reg0 , l_out~reg0, led_t, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, led_t, 1

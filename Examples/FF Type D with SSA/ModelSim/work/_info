@@ -1,0 +1,62 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/juanquart/mux2_1_1/ModelSim
+vffd_ssa
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1679862272
+!i10b 1
+!s100 8OmcP^1zkAaf1gOkNnNQE0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFP:l_afaSPonk9IUOSTCZ1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/juanquart/ejercicio_FFD_SSA/ModelSim
+w1679862224
+8C:/juanquart/ejercicio_FFD_SSA/ffd_ssa.sv
+FC:/juanquart/ejercicio_FFD_SSA/ffd_ssa.sv
+!i122 4
+L0 6 10
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1679862272.000000
+!s107 C:/juanquart/ejercicio_FFD_SSA/ffd_ssa.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/juanquart/ejercicio_FFD_SSA/ffd_ssa.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vTB_ffd_ssa
+R0
+R1
+!i10b 1
+!s100 8mcURS0Mjmf0gDohXEZ3l0
+R2
+I2neZ_P=ad<Ie:lD38A7eZ1
+R3
+S1
+R4
+w1679862226
+8C:/juanquart/ejercicio_FFD_SSA/ModelSim/TB_ffd_ssa.sv
+FC:/juanquart/ejercicio_FFD_SSA/ModelSim/TB_ffd_ssa.sv
+!i122 3
+L0 5 64
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/juanquart/ejercicio_FFD_SSA/ModelSim/TB_ffd_ssa.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/juanquart/ejercicio_FFD_SSA/ModelSim/TB_ffd_ssa.sv|
+!i113 1
+R7
+R8
+n@t@b_ffd_ssa

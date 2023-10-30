@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at led_t.sv(15): always construct contains both blocking and non-blocking assignments File: C:/juanquart/ej_led_T/led_t.sv Line: 15

@@ -1,0 +1,8 @@
+|mux_ex_3
+a[0] => b[0].IN0
+a[1] => b[1].IN0
+sel => b[1].IN1
+sel => b[0].IN1
+y <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

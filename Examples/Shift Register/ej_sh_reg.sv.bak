@@ -1,0 +1,26 @@
+
+//Ejercicio shift register
+module ej_sh_reg(
+input rst, input clk, input shift_r_l, input load,input [2:0] sh, input [7:0] d_in,
+output logic [7:0] d_out);
+
+always @(posedge clk) begin
+	if (rst) begin
+	d_out <= 8'b00000000;
+	end
+	else if (load) begin
+	d_out <= d_in;
+	end
+	else begin
+		if(shift_r_l) begin
+		d_out[7:8-sh] <= ~(d_out[7:8-sh] & 0)
+		d_out[7-sh:0] <= d_out[7:sh];
+		end
+		else if(!shift_r_l) begin
+		d_out[sh-1:0] <= ~(d_out[sh-1:0] & 0)
+		d_out[7:sh] <= d_out[7-sh:0];
+		end	
+	end
+end
+endmodule
+
